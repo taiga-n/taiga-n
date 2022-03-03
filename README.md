@@ -1,3 +1,5 @@
+Nice to meet you, はじめまして
+
 - 👋 Hi, I’m @taiga-n, Taiga Nishimura
 - 👀 I’m interested in Health Care Device, and Medical Deep Learning AI
 - 🌱 I’m currently learning Flutter, Deep Learning
