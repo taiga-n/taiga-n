@@ -1,3 +1,8 @@
+![image](https://badges.pufler.dev/years/taiga-n)
+![image](https://badges.pufler.dev/repos/taiga-n)
+![image](https://badges.pufler.dev/commits/all/taiga)
+
+
 Nice to meet you, はじめまして
 
 - 👋 Hi, I’m @taiga-n, Taiga Nishimura
