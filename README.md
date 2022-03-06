@@ -9,12 +9,13 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n&layout=compact&card_width=250"/>
 </a>
 
-<br>
+<!---
 Nice to meet you, はじめまして
 - 👋 Hi, I’m @taiga-n, Taiga Nishimura
 - 👀 I’m interested in Health Care Device, and Medical Deep Learning AI
 - 🌱 I’m currently learning Flutter, Deep Learning
 - 💞️ I’m looking to collaborate on making health care device.
+--->
 
 <!---
 taiga-n/taiga-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
