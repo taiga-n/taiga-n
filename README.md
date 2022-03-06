@@ -9,6 +9,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n&layout=compact&card_width=250"/>
 </a>
 
+<br>
 Nice to meet you, はじめまして
 - 👋 Hi, I’m @taiga-n, Taiga Nishimura
 - 👀 I’m interested in Health Care Device, and Medical Deep Learning AI
