@@ -5,12 +5,10 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n)
 
 Nice to meet you, はじめまして
-
 - 👋 Hi, I’m @taiga-n, Taiga Nishimura
 - 👀 I’m interested in Health Care Device, and Medical Deep Learning AI
 - 🌱 I’m currently learning Flutter, Deep Learning
 - 💞️ I’m looking to collaborate on making health care device.
-- 📫 How to reach me ...
 
 <!---
 taiga-n/taiga-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
