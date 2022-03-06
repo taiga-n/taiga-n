@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=taiga-n&hide=stars,contribs&count_private=true&show_icons=true" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n&layout=compact" />
 </a>
 
 <!---
