@@ -2,8 +2,12 @@
 ![image](https://badges.pufler.dev/repos/taiga-n)
 ![image](https://badges.pufler.dev/commits/all/taiga)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taiga-n&hide=stars,contribs&count_private=true&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n&layout=compact)
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taiga-n&hide=stars,contribs&count_private=true&show_icons=true" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-n&layout=compact" />
+</a>
 
 <!---
 Nice to meet you, はじめまして
